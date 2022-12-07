@@ -2,9 +2,7 @@ const siteMetadata = {
   title: `Paras Gupta`,
   author: 'Paras Gupta',
   headerTitle: 'Paras Gupta',
-  description:
-    'Reuben is a Data Scientist by training and Full-Stack Developer by passion. In his early teens, while pursuing his obsession with technology, he discovered a passion for building tech that makes a difference – Today, Reuben works as an independent Consultant, get in touch. ✌︎',
-  language: 'en-us',
+  description: 'Backend @ Spenny, Freelancer @ night',
   theme: 'system', // system, dark or light
   siteUrl: 'https://paragupta.co',
   siteRepo: 'https://github.com/parasg1999/paragupta.co',
