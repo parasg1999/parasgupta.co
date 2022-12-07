@@ -13,7 +13,6 @@ const siteMetadata = {
   email: 'parasg1999@gmail.com',
   github: 'https://github.com/parasg1999',
   twitter: 'https://twitter.com/parasg1999',
-  facebook: '',
   youtube: '',
   linkedin: 'https://www.linkedin.com/in/parasg1999',
   locale: 'en-US',
